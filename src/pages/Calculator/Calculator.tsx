@@ -76,7 +76,7 @@ export const CalculatorPage: React.FC<Props> = (props: Props) => {
             </div>
           </div>
           <div className={classes.buttonContainer}>
-            <Button variant="contained">{result} Mcal</Button>
+            <Button variant="contained">{result} Mega cal</Button>
           </div>
         </div>
         <div className={classes.lateralBar}>
